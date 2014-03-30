@@ -1,0 +1,19 @@
+body  { 
+	background: black url('../assets/builder1.jpg') no-repeat center top;
+	background-size: contain;
+}   
+
+h1 {
+	color: white;
+	text-align: center;
+	position: absolute;
+	margin-top:3em;
+	left:10%;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
