@@ -19,6 +19,16 @@ footer{
 	position: bottom;
 }
 
+.logo-index {
+   display:;
+   width: 25%;
+
+} 
+
+
+.row {
+   display: inline;
+}
 
 /* Buttons Row n°1 */
 
@@ -69,6 +79,7 @@ footer{
 }
 
 /* end Buttons Row no1 */
+
 
 
 
