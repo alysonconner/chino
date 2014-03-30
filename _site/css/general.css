@@ -1,0 +1,74 @@
+html {
+	background: black;
+	color: white;
+	font-family: helvetica,arial,sans-serif;
+}
+
+img{
+	width: 100%;
+	height: auto;
+}
+
+img:hover {
+	opacity: .75;
+}
+
+footer{
+	padding: 1em;
+	text-align: center;
+	position: bottom;
+}
+
+
+/* Buttons Row n°1 */
+
+#buttons{
+   text-align: center;
+}
+
+.btn1{
+   width: 150px;
+   height: 60px;
+   background-color: rgba(255,255,255,.1);
+   font-size: 15px;
+   border: none;
+   color: white;
+   text-transform: uppercase;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 0;
+   margin-right: 0;
+   -webkit-transition: 0.7s;
+   -moz-transition: 0.7s;
+   -ms-transition: 0.7s;
+   -o-transition: 0.7s;
+   transition: 0.7s;
+}
+
+.btn1:hover{
+      background-color: rgba(155,14,31,.5);
+      border: none;
+      color: white;
+      font-weight:;
+      -webkit-transition: 1s;
+      -moz-transition: 1s;
+      -ms-transition: 1s;
+      -o-transition: 1s;
+      transition: 1s;
+}
+
+.btn1:active{
+      background-color: rgba(155,14,31,.5);
+      border: black;
+      color: white;
+      font-weight:;
+      -webkit-transition: 1s;
+      -moz-transition: 1s;
+      -ms-transition: 1s;
+      -o-transition: 1s;
+      transition: 1s;
+}
+
+/* end Buttons Row no1 */
+
+
+
