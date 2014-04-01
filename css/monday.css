@@ -26,8 +26,12 @@ img {
 
 .border {
 	margin: 5% 10px;
-	background-color: rgba(255,255,255,.1);
+	background-color: rgba(255,255,255,);
 	padding: 30px;
+}
+
+.shape {
+	border-radius: 15% 15% 0% 0%;
 }
 
 .logo {

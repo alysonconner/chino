@@ -10,13 +10,14 @@ img{
 }
 
 img:hover {
-	opacity: .75;
 }
 
 footer{
-	padding: 1em;
+	padding-top: 10em;
 	text-align: center;
 	position: bottom;
+   bottom: 0;
+   color: grey;
 }
 
 .logo-index {
@@ -58,7 +59,6 @@ footer{
       background-color: rgba(155,14,31,.5);
       border: none;
       color: white;
-      font-weight:;
       -webkit-transition: 1s;
       -moz-transition: 1s;
       -ms-transition: 1s;
@@ -79,7 +79,6 @@ footer{
 }
 
 /* end Buttons Row no1 */
-
 
 
 

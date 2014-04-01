@@ -67,6 +67,11 @@ small, .milli {
   line-height: 1.8984;
 }
 
+.mini {
+  font-size: 0.5rem;
+  line-height: 1.5;
+}
+
 .push {
   margin-bottom: 1.5rem;
 }
